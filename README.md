@@ -34,6 +34,8 @@ Here is a list of my tools and resources. I will update the content from time to
 ``RST rules``
 - [Google Font](https://fonts.google.com)
 ``Font Resources``
+## Media
+- [Medium](https://www.medium.com)
 ## Others
 - [GMail](https://mail.google.com)
 - [Google Drive](https://drive.google.com)
