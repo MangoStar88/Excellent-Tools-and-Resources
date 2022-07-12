@@ -24,7 +24,7 @@ Here is a list of my tools and resources. I will update the content from time to
 ``Video Tool(unfree)``
 - [Kapwing](https://www.kapwing.com)
 ``Video Tool(free)``
-- [Overbits](https://overbits.herokuapp.com)
+- [Overbits](https://overbits.herokuapp.com/rsteditor/)
 ``RST editor``
 - [MathInreStructuredText](https://yuyuan.org/MathInreStructuredText/#math-in-browser)
 ``Bedding Math Fomulas in RST File``
