@@ -2,7 +2,7 @@
 Here is a list of my tools and resources. I will update the content from time to time.
 ## Search Engine
 - [Google](https://google.com)
-## chat client
+## Chat Client
 - [Telegram](https://telegram.org)
 - [Discord](https://discord.com)
 ## Web Development
@@ -26,8 +26,14 @@ Here is a list of my tools and resources. I will update the content from time to
 - Video Tool(free)
 - [Overbits](https://overbits.herokuapp.com)
 - RST editor
+- [MathInreStructuredText](https://yuyuan.org/MathInreStructuredText/#math-in-browser)
+- Bedding Math Fomulas in RST File
+- [](https://www.freefileconvert.com)
+- File Converter(RST to HTML)
 - [Google Font](https://fonts.google.com)
 - Font Resources
 ## Others
 - [GMail](https://mail.google.com)
 - [Google Drive](https://drive.google.com)
+- [Stackoverflow](https://stackoverflow.com)
+- Code Q&A 
