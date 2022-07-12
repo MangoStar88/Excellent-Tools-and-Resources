@@ -1,5 +1,5 @@
 # Excellent-Tools-and-Resources
-Here is a list of my tools and resources
+Here is a list of my tools and resources. I will update the content from time to time.
 ## search engine
 - [Google](https://google.com)
 ## chat client
