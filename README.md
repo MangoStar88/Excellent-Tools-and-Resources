@@ -34,6 +34,8 @@ Here is a list of my tools and resources. I will update the content from time to
 ``RST rules``
 - [Google Font](https://fonts.google.com)
 ``Font Resources``
+## Marketing
+- [Google Analytics](https://analytics.google.com)
 ## Media
 - [Medium](https://www.medium.com)
 ## Others
