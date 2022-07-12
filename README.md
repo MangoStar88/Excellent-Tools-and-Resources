@@ -38,6 +38,10 @@ Here is a list of my tools and resources. I will update the content from time to
 - [Google Analytics](https://analytics.google.com)
 ## Media
 - [Medium](https://www.medium.com)
+- [Reddit](https://www.reddit.com/)
+- [Youtube](https://www.youtube.com/)
+- [Twitter](https://twitter.com/)
+- [Facebook](https://www.facebook.com/)
 ## Others
 - [GMail](https://mail.google.com)
 - [Google Drive](https://drive.google.com)
