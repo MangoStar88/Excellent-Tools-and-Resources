@@ -30,6 +30,8 @@ Here is a list of my tools and resources. I will update the content from time to
 ``Bedding Math Fomulas in RST File``
 - [FreeFileConvert](https://www.freefileconvert.com)
 ``File Converter(RST to HTML)``
+- [Docutils](https://docutils.sourceforge.io/docs/user/rst/quickref.html)
+``RST rules``
 - [Google Font](https://fonts.google.com)
 ``Font Resources``
 ## Others
